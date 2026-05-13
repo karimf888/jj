@@ -1,4 +1,4 @@
-Rufier Test Platform
+-Rufier Test Platform-
 Overview
 
 This project is a digital platform designed to conduct, record, and evaluate the Rufier Test, a simple cardiovascular fitness assessment used to estimate heart efficiency after physical exertion.
